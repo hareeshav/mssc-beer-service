@@ -1,2 +1,2 @@
 # MSSC Beer Service
-SpringBoot Microservices Demo
+SpringBoot Microservices Demo 
